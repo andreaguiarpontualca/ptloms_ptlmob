@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NSPC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <NSPC>
+    <NAMESPACE>/PTLOMS/</NAMESPACE>
+    <REPLICENSE>37546936991817319852</REPLICENSE>
+   </NSPC>
+   <I18N_LANGS>
+    <LANGU>P</LANGU>
+   </I18N_LANGS>
+   <NSPC_TEXTS>
+    <item>
+     <SPRAS>P</SPRAS>
+     <DESCRIPTN>On Mob Service</DESCRIPTN>
+     <OWNER>Pontual Consultores</OWNER>
+    </item>
+   </NSPC_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/PTLOMS/AUFNR</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>AUFNR</DOMNAME>
+    <MEMORYID>ANR</MEMORYID>
+    <LOGFLAG>X</LOGFLAG>
+    <HEADLEN>12</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>Order Number</DDTEXT>
+    <REPTEXT>Order</REPTEXT>
+    <SCRTEXT_S>Order</SCRTEXT_S>
+    <SCRTEXT_M>Order</SCRTEXT_M>
+    <SCRTEXT_L>Order</SCRTEXT_L>
+    <APPLCLASS>SAP</APPLCLASS>
+    <DTELMASTER>P</DTELMASTER>
+    <DEFFDNAME>ORDERID</DEFFDNAME>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+    <LANGU>P</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>OMS - Nº Ordem</DDTEXT>
+     <REPTEXT>Auftrag</REPTEXT>
+     <SCRTEXT_S>Auftrag</SCRTEXT_S>
+     <SCRTEXT_M>Auftrag</SCRTEXT_M>
+     <SCRTEXT_L>Auftrag</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>OMS - Nº Ordem</DDTEXT>
+     <REPTEXT>Ordem</REPTEXT>
+     <SCRTEXT_S>Ordem</SCRTEXT_S>
+     <SCRTEXT_M>Ordem</SCRTEXT_M>
+     <SCRTEXT_L>Ordem</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Número de orden</DDTEXT>
+     <REPTEXT>Orden</REPTEXT>
+     <SCRTEXT_S>Orden</SCRTEXT_S>
+     <SCRTEXT_M>Orden</SCRTEXT_M>
+     <SCRTEXT_L>Orden</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

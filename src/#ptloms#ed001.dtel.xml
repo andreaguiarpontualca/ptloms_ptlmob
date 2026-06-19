@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/PTLOMS/ED001</ROLLNAME>
+    <DOMNAME>/PTLOMS/DM001</DOMNAME>
+    <HEADLEN>09</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DTELMASTER>P</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>P</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>OMS - Nível pai</DDTEXT>
+     <REPTEXT>Nível pai</REPTEXT>
+     <SCRTEXT_S>Nível pai</SCRTEXT_S>
+     <SCRTEXT_M>Nível pai</SCRTEXT_M>
+     <SCRTEXT_L>Nível pai</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>OMS - Nivel Principal</DDTEXT>
+     <REPTEXT>Niv.Princ</REPTEXT>
+     <SCRTEXT_S>Niv.Princ</SCRTEXT_S>
+     <SCRTEXT_M>Niv.Princ</SCRTEXT_M>
+     <SCRTEXT_L>Niv.Princ</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
