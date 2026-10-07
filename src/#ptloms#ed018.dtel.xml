@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/PTLOMS/ED018</ROLLNAME>
+    <DOMNAME>/PTLOMS/DM011</DOMNAME>
+    <HEADLEN>20</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DTELMASTER>P</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>P</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>OMS - Autorizações</DDTEXT>
+     <REPTEXT>Autorizações</REPTEXT>
+     <SCRTEXT_S>Autoriz.</SCRTEXT_S>
+     <SCRTEXT_M>Autorizações</SCRTEXT_M>
+     <SCRTEXT_L>Autorizações</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>OMS - Autorizaciones</DDTEXT>
+     <REPTEXT>Autorizaciones</REPTEXT>
+     <SCRTEXT_S>Autoriz.</SCRTEXT_S>
+     <SCRTEXT_M>Autorizaciones</SCRTEXT_M>
+     <SCRTEXT_L>Autorizaciones</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
